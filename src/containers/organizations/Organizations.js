@@ -1,8 +1,8 @@
-import React, { Component } from "react";
-import "./Organizations.css";
-import { Fade } from "react-reveal";
-import OrganizationList from "../../components/organizationList/OrganizationList";
-import OrganizationsData from "../../shared/opensource/organizations.json";
+import React, { Component } from 'react';
+import './Organizations.css';
+import { Fade } from 'react-reveal';
+import OrganizationList from '../../components/organizationList/OrganizationList';
+// import OrganizationsData from '../../shared/opensource/organizations.json';
 
 class Organizations extends Component {
   render() {
@@ -16,7 +16,7 @@ class Organizations extends Component {
             </h1>
           </Fade>
         </div>
-        <OrganizationList logos={OrganizationsData["data"]} />
+        {/* <OrganizationList logos={OrganizationsData['data']} /> */}
       </div>
     );
   }

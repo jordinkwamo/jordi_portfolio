@@ -1,8 +1,8 @@
-import React, { Component } from "react";
-import "./Issues.css";
-import { Fade } from "react-reveal";
-import IssueCard from "../../components/issueCard/IssueCard";
-import issuesData from "../../shared/opensource/issues.json";
+import React, { Component } from 'react';
+import './Issues.css';
+import { Fade } from 'react-reveal';
+import IssueCard from '../../components/issueCard/IssueCard';
+// import issuesData from '../../shared/opensource/issues.json';
 
 class Issues extends Component {
   render() {
@@ -17,9 +17,9 @@ class Issues extends Component {
           </Fade>
         </div>
         <div className="issues-body-div">
-          {issuesData["data"].map((issue) => {
+          {/* {issuesData['data'].map((issue) => {
             return <IssueCard issue={issue} />;
-          })}
+          })} */}
         </div>
       </div>
     );

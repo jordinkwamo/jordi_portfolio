@@ -78,12 +78,14 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Mes principales competences en tant que developpeur web",
       fileName: "FullStackImg",
       skills: [
-        "-> Building responsive website front end using React-Redux",
-        "-> Developing mobile applications using React Native and swift android apps using Kotlin",
-        "-> Creating application backend in Node, Express & Java",
+        " <--creer des application mobiles sous IOS avec (swift comme language de programmation) ",
+        "<--creer des application mobiles sous android avec  c#",
+        "<--creations des application backend avec java et express",
+        "<--maitrise dans la manipulation de plusieurs logiciels informatiques",
+        "<-- base en AWS(Amazone web services)"
       ],
       softwareSkills: [
         {
@@ -91,6 +93,7 @@ const skills = {
           fontAwesomeClassname: "simple-icons:html5",
           style: {
             color: "#E34F26",
+        
           },
         },
         {
@@ -701,10 +704,10 @@ const publications = {
 // Contact Page
 const contactPageData = {
   contactSection: {
-    title: "Contact Me",
+    title: "",
     profile_image_path: "",
     description:
-      "Je suis disponible pour discuter à tout moment. Je peux vous aider avec le développement d'applications web full stack.",
+      "Je suis disponible pour discuter à tout moment. Je peux vous aider avec le développement d'applications web full stack, et aussi en tant que technicien informatique,pour me contacter par courriel juste appuyer sur le bouton rouge, le  bleu est celui de mon Linkedin et le bouton noir est celui de mon Github qui regorge tous les differents projets de developement que j'ai eu a realiser.  ",
   },
   // blogSection: {
   //   title: 'Blogs',
