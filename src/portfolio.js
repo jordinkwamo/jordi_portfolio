@@ -528,12 +528,12 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Software Developer",
+          title: "developeur web",
           company: "LetServU LLC.",
           company_url: "https://www.letservu.com/",
           logo_path: "letservu_logo.png",
-          duration: "Septembre 2022 - Avril 2024",
-          location: "Remote",
+          duration: "Septembre 2022 - maintenant",
+          location: "En ligne",
           description: `Travailler au sein d'une équipe de 5 développeurs frontend et backend pour développer une plateforme permettant aux entreprises d'offrir différents services à leurs clients:
             ●	Conception d'une interface frontend entièrement fonctionnelle avec React.JS (pour le web) et React Native (pour les applications natives),
             ●	Conception d'un backend avec Node.JS fonctionnant sur un serveur Express et utilisant MongoDB comme base de données,
@@ -541,6 +541,20 @@ const experience = {
             `,
           color: "#000000",
         },
+        {
+          title: "technicien informatique",
+          company: "TECH SARL",
+          company_url: "",
+          logo_path: "letservu_logo.png",
+          duration: "Aout 2020 - Juillet 2022",
+          location: "Douala (cameroun)",
+          description: `J’ai eu à travailler dans une startup qui s’occupe de l’entretien des systèmes informatique, la mise à jour des logiciels, et la gestion des réseaux locaux des grandes entreprise
+            ●	 Connaissance approfondie des équipements informatiques, afficheur électroniques, imprimantes aux fins d’installations,
+            ●  Maitrise des logiciels de bureaux de la suite office et aussi des logiciels de bureaux de MACOS,
+            ●	 Entretien des machine, mise à jour, installation des antivirus `,
+          color: "#000000",
+        },
+
         {
           title: "Associé",
           company: "Épicerie IGA, Gatineau",
@@ -718,7 +732,7 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle: "Gatineau Quebec",
+    subtitle: "CANADA",
     locality: "Quebec",
     country: "Canada",
     region: "Quebec",
