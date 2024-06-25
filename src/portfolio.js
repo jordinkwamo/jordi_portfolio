@@ -518,7 +518,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work and Internship",
+  subtitle: "Travail et Stage",
   description:
     "Je suis un développeur de logiciels Full Stack de formation avec deux ans d'expérience dans le développement d'applications Web robustes et évolutives. Maîtrise de divers langages de programmation et familiarisé avec plusieurs Framework, bibliothèques et outils de développement Web. Je possède une base en développement front-end et back-end, concentré sur la conception de solutions à des problèmes complexes. Je suis adepte de la collaboration avec des équipes interfonctionnelles pour fournir des produits logiciels de haute qualité qui répondent aux objectifs commerciaux..",
   header_image_path: "experience.svg",
